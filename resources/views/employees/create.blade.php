@@ -2,6 +2,7 @@
 
 @section('page-content')
     <br>
+    
     <legend>Create Employee</legend>
     <br>
     @if(Session::has('success'))
